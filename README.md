@@ -18,7 +18,7 @@
 
   ## Usage
 
-  The deployed application can be found at [this link.](https://vast-beach-07886.herokuapp.com/)
+  The deployed application can be found at [this link.](https://stormy-gorge-40792.herokuapp.com/)
 
   When you arrive at the home page, you can find pet friendly businesses near you by searching for a location in the search bar. This will return a list of 20 dog friendly businesses in your location.
 
